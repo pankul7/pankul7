@@ -1,4 +1,4 @@
-Hi there!👋 I'm Pankul Dhamanda. Passionate and results-driven Data Analyst with over 3 years of experience in the banking and finance sector. Proven expertise in extracting actionable insights from complex datasets, contributing to informed decision-making processes. Excited to leverage my skills and experience to tackle new challenges and drive impactful projects.
+Hi there!👋 I'm Pankul Dhamanda. Passionate and results-driven Data Analyst with over 3 years of experience in the banking and finance sector. Proven expertise in extracting actionable insights from complex datasets, contributing to informed decision-making processes. Excited to leverage my skills and experience to tackle new challenges and drive impactful projects. 
 I'm passionate about uncovering hidden patterns in data and transforming insights into actionable strategies.📊✨
 # **Skills & Expertise**
 - **Programming**: Proficient in Python for data analysis and visualization using Pandas, NumPy, and Matplotlib.
